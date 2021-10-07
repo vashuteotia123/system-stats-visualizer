@@ -7,10 +7,15 @@
 <li><b>Requirements: </b>Python, Elasticsearch, Kibana</li>
 
 Create a Virtual Environment: <br>
-<code>pip install pyenv<br>
-pyenv install 3.9.7<br>
-pyenv virtualenv system-stats-env<br>
-pyenv local system-stats-env</code>
+
+<code>
+pip install pyenv
+  </code><br>
+  <code>
+pyenv install 3.9.7
+  </code><br>
+<code>pyenv virtualenv system-stats-env</code><br>
+<code>pyenv local system-stats-env</code><br>
 <br>
 <br>
 Install requirements using:
