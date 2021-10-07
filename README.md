@@ -1,5 +1,5 @@
 ## System Stats Visualizer
-<li>This project is created to visualize the system statistics such as mermory usage, CPU usage, memory accessable by process and much more using kibana Dashboard with Elasticsearch.</li>
+<li>This project is created to visualize the system statistics such as memory usage, CPU usage, memory accessible by process and much more using Kibana Dashboard with Elasticsearch.</li>
 
 ---
 
